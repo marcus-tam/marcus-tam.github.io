@@ -60,21 +60,19 @@ Template provided by othneildrew/Best-README-Template
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
-
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
-    Basic selenium application to trade stocks on WealthSimple.
-    This is meant to be a personal application, but feel free to use and modify.
-    This application is for education purposes.
+    Personal Website to test out GitHub Pages. Also I'm in desperate need of a website. 
 
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [Python](https://www.python.org/downloads/)
+- HTML
+- CSS
+- BootStrap Studio
+- JQuery
 
 <!-- GETTING STARTED -->
 
@@ -92,10 +90,10 @@ This is an example of how to list things you need to use the software and how to
 -->
 
 ### Installation
-
+<!-- 
 1. Clone the repo
    ```sh
-   git clone https://github.com/marcus-tam/marcus-tam.github.io.git
+   git clone https://github.com/marcus-tam/ws_selenium_trader.git
    ```
 2. Install NPM packages
    ```sh
@@ -106,7 +104,7 @@ This is an example of how to list things you need to use the software and how to
 
 ```sh
 python -i main.py
-```
+``` -->
 
 <!-- USAGE EXAMPLES -->
 
@@ -121,7 +119,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_ --
 
 ## Roadmap
 
-See the [open issues](https://github.com/marcus-tam/marcus-tam.github.io/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/marcus-tam/ws_selenium_trader/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
